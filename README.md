@@ -1,0 +1,1 @@
+# celo-ledger-bridge-keyring
